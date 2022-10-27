@@ -2,8 +2,9 @@
 #### I'm a Full stack developer
 
 ## Skills and Experience
-* (https://www.flaticon.com/free-icon/physics_1126012?term=react&page=1&position=3&page=1&position=3&related_id=1126012&origin=search) React
+* ⚛ React
 * 💻 HTML, CSS, JS, BOOTSTRAP
+* 🤖 Machine Learning
 
 Skills: REACT / JS / HTML / CSS / Javascript / Python / Bootstrap / mongodb / C++ / Git /heroku
 
