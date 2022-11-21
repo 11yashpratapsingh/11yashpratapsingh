@@ -51,7 +51,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=11yashpratapsingh&" alt="11yashpratapsingh" /></p>
  -->
-### Watch my contribution graph get eaten by the snake 🐍😒
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/11yashpratapsingh/11yashpratapsingh/blob/output/github-contribution-grid-snake.svg)
