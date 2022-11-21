@@ -1,6 +1,13 @@
 ### Hi there 👋, my name is Yash
 #### I'm a Full stack developer
 
+<p align="left">
+      <a href="https://github.com/11yashpratapsingh?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/11yashpratapsingh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/11yashpratapsingh?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/11yashpratapsingh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
 ## Skills and Experience
 * ⚛ React
 * 💻 HTML, CSS, JS, BOOTSTRAP
