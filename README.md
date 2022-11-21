@@ -1,5 +1,9 @@
-### Hi there 👋, my name is Yash
+### Hi there 👋, I'm Yash
 #### I'm a Full stack developer
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=11yashpratapsingh&label=Profile%20views&color=0e75b6&style=flat" alt="11yashpratapsingh" /> </p>
+
+- 📫 How to reach me **shubhpratap@gmail.com**
 
 <p align="left">
       <a href="https://github.com/11yashpratapsingh?tab=followers">
@@ -7,13 +11,6 @@
       <a href="https://github.com/11yashpratapsingh?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/11yashpratapsingh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
----
-
-## Skills and Experience
-* ⚛ React
-* 💻 HTML, CSS, JS, BOOTSTRAP
-* 🤖 Machine Learning
 
 ---
 
@@ -28,6 +25,7 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <br />
 
 ---
