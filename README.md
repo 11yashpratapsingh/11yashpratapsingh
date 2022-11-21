@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Yash
-#### I'm a Full stack developer
+<h1 align="center">Hi there 👋, I'm Yash</h1>
+<h3 align="center">I'm a Full stack developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=11yashpratapsingh&label=Profile%20views&color=0e75b6&style=flat" alt="11yashpratapsingh" /> </p>
 
@@ -16,6 +16,7 @@
 
 ### 🧰 Languages and Tools
 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -26,6 +27,8 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png" alt="heroku" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="40" height="40"/> </a>
 <br />
 
 ---
@@ -37,12 +40,18 @@
 
 ### 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11yashpratapsingh)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=11yashpratapsingh&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=11yashpratapsingh&theme=radical&show_icons=true" />
+ <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11yashpratapsingh&theme=radical&show_icons=true&layout=compact">
+ 
+ <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=11yashpratapsingh&show_icons=true&locale=en&layout=compact" alt="11yashpratapsingh" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=11yashpratapsingh&show_icons=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=11yashpratapsingh&show_icons=true&locale=en" alt="11yashpratapsingh" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=11yashpratapsingh)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=11yashpratapsingh&" alt="11yashpratapsingh" /></p>
+ -->
+### Watch my contribution graph get eaten by the snake 🐍😒
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=11yashpratapsingh)  
-
-![Profile views](https://gpvc.arturio.dev/11yashpratapsingh)  
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/11yashpratapsingh/11yashpratapsingh/blob/output/github-contribution-grid-snake.svg)
